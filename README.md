@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**kohakus/kohakus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently I am an engineer working at a tech company.
 
-Here are some ideas to get you started:
+I am interested in operating systems, distributed computing, deep learning, and programming/compiling techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my spare time, I also enjoy tinkering with my graphics toys and learning more about maths.
+
+For more information, you can contact me at the following personal email addresses, I usually check my mail weekly,
+
+- zytphor *at* outlook *dot* com
+
+or you may prefer to create github issues directly.
+
+I am inclined to organise my notes into documents by using a kind of typesetting system (e.g. LaTeX),
+one can access to them by visiting [here](./notelist.md).
