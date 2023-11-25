@@ -12,5 +12,5 @@ For more information, you can contact me at the following personal email address
 
 or you may prefer to create github issues directly.
 
-I am inclined to organise my notes into documents by using a kind of typesetting system (e.g. LaTeX),
+I am inclined to organise my notes into documents by using a typesetting system (e.g. LaTeX),
 one can access to them by visiting [here](./notelist.md).
