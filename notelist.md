@@ -1,4 +1,6 @@
-预览 PDF 文档 - [Preview link of docs](https://1drv.ms/f/s!Ap0weTZY_67ciGdVxo3Ra1LCRvlp)
+Under construction ...
+
+If you are interested or would like to discuss this further, please feel free to contact me for preview pdf version.
 
 ---
 
