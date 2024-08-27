@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm interested in computer graphics, operating systems, distributed computing, deep learning, and programming/compiling techniques.
+I'm interested in computer graphics, distributed computing, deep learning, and programming/compiling techniques.
 
 In my spare time, I also enjoy tinkering with my graphics toys and learning more about maths.
 
