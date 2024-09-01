@@ -9,7 +9,7 @@ To prevent robots, and to control access, I configured some basic questions/puzz
     p = \frac{1}{a_1a_2} + \frac{1}{a_2a_3} + \cdots + \frac{1}{a_{m-1}a_m}
 ```
 
-- Let $$(x_n, y_n)$$ is the $$n$$-th lowest positive integer solution of equation $$x^2-2y^2=1$$.
+- Let $$(x_n, y_n)$$ be the $$n$$-th lowest positive integer solution of equation $$x^2-2y^2=1$$.
 
 - Denote $$q \equiv x_{p^2+1} \pmod{26}$$
 
