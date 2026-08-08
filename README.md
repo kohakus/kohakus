@@ -1,27 +1,12 @@
 ```
-8888888b.      88888888888 8888888b.  888       888        d8888  .d88888b.
-888   Y88b         888     888   Y88b 888   o   888       d88888 d88P" "Y88b
-888    888         888     888    888 888  d8b  888      d88P888 888     888
-888   d88P 888d888 888     888   d88P 888 d888b 888     d88P 888 888     888
-8888888P"  888P"   888     8888888P"  888d88888b888    d88P  888 888     888
-888 T88b   888     888     888        88888P Y88888   d88P   888 888 Y8b 888
-888  T88b  888     888     888        8888P   Y8888  d8888888888 Y88b.Y8b88P
-888   T88b 888     888     888        888P     Y888 d88P     888  "Y888888"
-                                                                        Y8b
+▒ ▒   ▒       ▒ ▓ ░   ▒ ░   ▓   ▒           ░ ▒     ▓ ▓     ▒   
+▓   ░   ░ ▓   ░   ░ ▓   ▓ ▒ ▒         ░ ░   ▓ ░ ░   ▒ ░ ▓ ▓ ▒ ░ 
+  ▒ ▒ ░ ▓ ░ ▒   ░ ░ ░     ▒ ▒ ▒ ▓ ▓ ▓ ▒ ▒ ▓ ▓ ▒ ▓ ▓ ▒ ░ ░ ▓ ▓ ▓ 
+    ░ ▒ ▓ ░   ▓ ▓ ▓ ░ ▓ ▒     ▓ ▓ ▓ ▒ ░   ▓     ▓ ▓   ▒ ░       
+▒ ░ ▓ ▓     ▓ ░ ▒     ▒ ▒   ▒ ▒ ▓ ░ ▓ ▓   ▒ ▓ ▓ ▓ ▒ ▓ ░ ░ ▒ ▓   
+▒ ▓     ▒ ▓ ▒ ▓ ▓ ▒   ▒ ▓   ░     ▓ ▒ ▓ ░ ▒   ▒     ░   ▒ ░ ▓   
+  ▒ ▒ ▒ ▒ ▒       ▒ ░ ▓   ▒ ▒ ▓ ▒   ▒ ▓ ▒ ░     ▒ ░ ▒ ▒ ░ ░ ░   
+░ ▒   ▒     ▓ ░ ▒ ▓ ▒ ▒ ░ ▒ ░ ▓ ░ ▒ ░       ▒ ░ ▓ ░ ░ ▒ ▒   ░ ▓ 
 
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-mDMEaij1NhYJKwYBBAHaRw8BAQdA2HjpC2OBBcObLb8vZcOUpnZI9KqxYs5sepqs
-/TJDE1+0K3poYW5neWl0ZW5nIChrb2hha3VzKSA8enl0cGhvckBvdXRsb29rLmNv
-bT6ImQQTFgoAQRYhBDVdL3NauYHkOAZcV4FdPnb7CmBhBQJqKPU2AhsDBQkDwmcA
-BQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEIFdPnb7CmBhvLEA/RWGAJHy
-59rJ+mCZrgjR0GNComjs87vTo6nH/j3xhkp5AQC+yV6P663IU04F75eJFw+WXIEg
-cQG2bbnhhpG3ymWlBLg4BGoo9TYSCisGAQQBl1UBBQEBB0ALq0VBGwrZuBBSfq+O
-mRcJVcjJQesvM8Z1hekm/kAhKwMBCAeIfgQYFgoAJhYhBDVdL3NauYHkOAZcV4Fd
-Pnb7CmBhBQJqKPU2AhsMBQkDwmcAAAoJEIFdPnb7CmBhIesA/ijw6UZk+aKKZCya
-ZxQQ5x2tnDgGK2NkHf+9guba3Dh3AQC6n/amDE6lXTgvKqsgOMs9m5HRpguqHgkf
-Me0FxXftBA==
-=4twD
------END PGP PUBLIC KEY BLOCK-----
-
+68EA   20D8   4E72   1A40   AA10   A12A   F6D0   20FA   E880
 ```
